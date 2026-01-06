@@ -176,7 +176,7 @@ GROQ_API_KEY=your_groq_api_key
 
 ###  Key Engineering Highlights
 
-```md
+
 - Multiple transcript fallback strategies
 
 - Handles long-form content safely
@@ -194,7 +194,7 @@ GROQ_API_KEY=your_groq_api_key
 -  Blog articles & websites
 
 -  Private / restricted videos
-```
+
 ---
 
 
